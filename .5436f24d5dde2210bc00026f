@@ -1,48 +1,51 @@
 ---
-time: 1415810782
+time: 1415813207
 inventory:
   /homepage/index.html:
-    md5: 93117096c6ba2df1425877115aea18ea
-    time: 1415810779
+    md5: f06c18d279691209332e758975344d3a
+    time: 1415813203
   /index.html:
-    md5: 93117096c6ba2df1425877115aea18ea
-    time: 1415810779
+    md5: f06c18d279691209332e758975344d3a
+    time: 1415813203
   /articles/index.html:
-    md5: fdc181f5217f46e5021af3b1a67a65a3
-    time: 1415810779
+    md5: 86196a6ce4ea02238af1d8363b261d80
+    time: 1415813203
+  /articles/github-is-like-an-infinite-library/index.html:
+    md5: 8e12d933dd6c35bc79d6e0dedf999703
+    time: 1415813203
   /articles/the-magical-machinery-of-hands/index.html:
-    md5: b60390c8ca3b60a6d4a02d1e36f8ed88
-    time: 1415810779
+    md5: 937977875f17aad8da1dbc833e89bef1
+    time: 1415813204
   /articles/hello-world/index.html:
-    md5: 5cecf7e292b11ed6e7bfd68328fb2d78
-    time: 1415810779
+    md5: 058acf40c772b65a4a2dd016c9517822
+    time: 1415813204
   /articles/archive/index.html:
-    md5: 71c3e7fd310110ae3eae31b9dadaf69e
-    time: 1415810779
+    md5: 007ff305cd46a819582d888d1ec8b3aa
+    time: 1415813204
   /articles/tags/index.html:
-    md5: 0d19b480e4af9bbbba7b07fdc3dc8a63
-    time: 1415810779
+    md5: 84a33d9b5343b5c362c110eccb5444b6
+    time: 1415813204
   /poetry/index.html:
-    md5: 80d03faff2bb7b16eb415492fd4c7c0b
-    time: 1415810779
+    md5: 0409b3a4654985b8a5dae64e2ad90390
+    time: 1415813204
   /poetry/mr-mistoffelees/index.html:
-    md5: 6f55f4635046244866579daaf294dc3c
-    time: 1415810779
+    md5: 0692bdd765ef032fae982bfb9e924fd0
+    time: 1415813204
   /poetry/archive/index.html:
-    md5: 79debe1888ddd65a8dcd757a022c18e3
-    time: 1415810779
+    md5: 358a116d6d38add6e428fde623232170
+    time: 1415813204
   /poetry/tags/index.html:
-    md5: 03b7b7cc7fad045228d10167deef405c
-    time: 1415810779
+    md5: 0a2aa0d7a01d39be2481c605e6392c37
+    time: 1415813204
   /CNAME:
     md5: 7d4b40928cdfa637b0e939fe54445bb7
     time: 1415810779
   /sitemap.xml:
-    md5: a9cd613832fd817b3ae98053be6736b6
-    time: 1415810779
+    md5: 7e3104e96b1ec8329e4908f7fab53e16
+    time: 1415813204
   /feed.xml:
-    md5: 9184a8f2d349614ea3a4caf281fabd1e
-    time: 1415810780
+    md5: be7a2a9982715a7c6c8b23fc4e3407e3
+    time: 1415813204
   /assets/squaresmall.jpg:
     md5: fa32d7d1beea56259e85303a40f4d988
     time: 1415807307
