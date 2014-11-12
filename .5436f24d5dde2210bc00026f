@@ -1,5 +1,5 @@
 ---
-time: 1415808166
+time: 1415808219
 inventory:
   /homepage/index.html:
     md5: e666a2aaf4514b5b2c7f997d96d89ec1
@@ -10,6 +10,9 @@ inventory:
   /blog/index.html:
     md5: 01bcd9d67a98360fd71bb869118d6946
     time: 1415808164
+  /blog/the-magical-machinery-of-hands/index.html:
+    md5: f5de87eacfda6fb62e06e76faa2ce7b1
+    time: 1415808219
   /blog/hello-world/index.html:
     md5: 1f2787b2540f3d4fe129d21a1fbbd9eb
     time: 1415808164
@@ -35,11 +38,11 @@ inventory:
     md5: 7c95d705057f1c22ae33b35c01d2c35e
     time: 1415807632
   /sitemap.xml:
-    md5: 2b39e4af1713c63517f22d301fad14ac
-    time: 1415807632
+    md5: bf7e056a34a49c0a10a1a21e269518e9
+    time: 1415808219
   /feed.xml:
-    md5: ae8a05803b60a0cfbc07f3d4c6dbf0a1
-    time: 1415808165
+    md5: 4156b2a3eea227583b2ed1321529eaf0
+    time: 1415808219
   /assets/squaresmall.jpg:
     md5: fa32d7d1beea56259e85303a40f4d988
     time: 1415807307
