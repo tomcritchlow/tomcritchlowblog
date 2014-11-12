@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>http://tjcritchlow.siteleaf.net/</loc>
+    <lastmod>2014-10-09T20:39:35+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://tjcritchlow.siteleaf.net/blog</loc>
+    <lastmod>2014-10-09T20:45:06+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjcritchlow.siteleaf.net/blog/hello-world</loc>
+    <lastmod>2014-10-09T20:56:01+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://tjcritchlow.siteleaf.net/poetry</loc>
+    <lastmod>2014-10-09T20:57:09+00:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tjcritchlow.siteleaf.net/poetry/mr-mistoffelees</loc>
+    <lastmod>2014-10-09T21:12:01+00:00</lastmod>
+    <priority>0.5</priority>
+  </url>
+  
+
+</urlset>
