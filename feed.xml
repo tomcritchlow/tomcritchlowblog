@@ -2,25 +2,25 @@
 <rss version="2.0">
   <channel>
     <title>Tom Critchlow</title>
-    <link>http://tomcritchlow.com</link>
-    <pubDate>Wed, 12 Nov 2014 16:05:52 -0000</pubDate>
+    <link>http://tjcritchlow.siteleaf.net</link>
+    <pubDate>Wed, 12 Nov 2014 16:46:19 -0000</pubDate>
     
     <item>
       <title>The magical machinery of hands</title>
-      <link>http://tomcritchlow.com/articles/the-magical-machinery-of-hands</link>
+      <link>http://tjcritchlow.siteleaf.net/articles/the-magical-machinery-of-hands</link>
       <pubDate>Wed, 12 Nov 2014 16:03:00 +0000</pubDate>
       <author>Tom Critchlow</author>
-      <guid>http://tomcritchlow.com/articles/the-magical-machinery-of-hands</guid>
+      <guid>http://tjcritchlow.siteleaf.net/articles/the-magical-machinery-of-hands</guid>
       <description>&lt;p&gt;How does this work then eh? Pushing through siteleaf to Github and whatnot?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello, world</title>
-      <link>http://tomcritchlow.com/articles/hello-world</link>
+      <link>http://tjcritchlow.siteleaf.net/articles/hello-world</link>
       <pubDate>Thu, 09 Oct 2014 20:45:00 +0000</pubDate>
       <author>Tom Critchlow</author>
-      <guid>http://tomcritchlow.com/articles/hello-world</guid>
+      <guid>http://tjcritchlow.siteleaf.net/articles/hello-world</guid>
       <description>&lt;p&gt;This is my first post on Siteleaf. Now time for a whisky&amp;hellip;&lt;/p&gt;
 </description>
     </item>
