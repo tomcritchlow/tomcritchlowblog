@@ -2,15 +2,15 @@
 <rss version="2.0">
   <channel>
     <title>Tom Critchlow</title>
-    <link>http://tjcritchlow.siteleaf.net</link>
-    <pubDate>Wed, 12 Nov 2014 15:48:26 -0000</pubDate>
+    <link>http://tomcritchlow.com</link>
+    <pubDate>Wed, 12 Nov 2014 15:53:52 -0000</pubDate>
     
     <item>
       <title>Mr. Mistoffelees by T.S. Eliot</title>
-      <link>http://tjcritchlow.siteleaf.net/poetry/mr-mistoffelees</link>
+      <link>http://tomcritchlow.com/poetry/mr-mistoffelees</link>
       <pubDate>Thu, 09 Oct 2014 20:58:00 +0000</pubDate>
       <author>Tom Critchlow</author>
-      <guid>http://tjcritchlow.siteleaf.net/poetry/mr-mistoffelees</guid>
+      <guid>http://tomcritchlow.com/poetry/mr-mistoffelees</guid>
       <description>&lt;p&gt;You ought to know Mr. Mistoffelees!&lt;br&gt;
 The Original Conjuring Cat&amp;ndash;&lt;br&gt;
 (There can be no doubt about that).&lt;br&gt;
@@ -79,10 +79,10 @@ As Magical Mr. Mistoffelees!  &lt;/p&gt;
     
     <item>
       <title>Hello, world</title>
-      <link>http://tjcritchlow.siteleaf.net/blog/hello-world</link>
+      <link>http://tomcritchlow.com/blog/hello-world</link>
       <pubDate>Thu, 09 Oct 2014 20:45:00 +0000</pubDate>
       <author>Tom Critchlow</author>
-      <guid>http://tjcritchlow.siteleaf.net/blog/hello-world</guid>
+      <guid>http://tomcritchlow.com/blog/hello-world</guid>
       <description>&lt;p&gt;This is my first post on Siteleaf. Now time for a whisky&amp;hellip;&lt;/p&gt;
 </description>
     </item>
