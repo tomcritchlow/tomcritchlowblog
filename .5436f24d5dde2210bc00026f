@@ -1,48 +1,48 @@
 ---
-time: 1415808219
+time: 1415808354
 inventory:
   /homepage/index.html:
-    md5: e666a2aaf4514b5b2c7f997d96d89ec1
-    time: 1415808164
+    md5: 855f509309f21ac2a6ef4e7ba8585e2e
+    time: 1415808352
   /index.html:
-    md5: e666a2aaf4514b5b2c7f997d96d89ec1
-    time: 1415808164
-  /blog/index.html:
-    md5: 01bcd9d67a98360fd71bb869118d6946
-    time: 1415808164
-  /blog/the-magical-machinery-of-hands/index.html:
-    md5: f5de87eacfda6fb62e06e76faa2ce7b1
-    time: 1415808219
-  /blog/hello-world/index.html:
-    md5: 1f2787b2540f3d4fe129d21a1fbbd9eb
-    time: 1415808164
-  /blog/archive/index.html:
-    md5: a4249297335ca018221f4b8bb0e4ffe4
-    time: 1415808164
-  /blog/tags/index.html:
-    md5: f6d76cc566bd5086ff7c71e5d491882d
-    time: 1415808164
+    md5: 855f509309f21ac2a6ef4e7ba8585e2e
+    time: 1415808352
+  /articles/index.html:
+    md5: 49bf0d351bf25332d063f732739d6a97
+    time: 1415808352
+  /articles/the-magical-machinery-of-hands/index.html:
+    md5: a519f26545a2cefe2a21bd1048621087
+    time: 1415808352
+  /articles/hello-world/index.html:
+    md5: f6cf9042a07bff92fdfed758ccc8ff47
+    time: 1415808352
+  /articles/archive/index.html:
+    md5: 6ef6b4b7adc1b257ae9a372b74e017ac
+    time: 1415808352
+  /articles/tags/index.html:
+    md5: 905e2c245ebd493e6c3b361d1c622aa8
+    time: 1415808352
   /poetry/index.html:
-    md5: 4889712c0347879b9b9914e599788250
-    time: 1415808164
+    md5: f8214d39bb458bfd9f28cdedf440fdf4
+    time: 1415808352
   /poetry/mr-mistoffelees/index.html:
-    md5: 1e833a7b5d1be313a638cb72e079d7fc
-    time: 1415808164
+    md5: 9609a1ec7071f4c3d6b5a789860ffee1
+    time: 1415808352
   /poetry/archive/index.html:
-    md5: 1ec0266d0e8d465e39b4aa6137bc814e
-    time: 1415808164
+    md5: 270a4b3dad782ef4b8a938a51862d141
+    time: 1415808352
   /poetry/tags/index.html:
-    md5: 083c0d50fb027c20ce95645bac14027c
-    time: 1415808164
+    md5: a69af72c0151025e8d1052438cef9a51
+    time: 1415808352
   /CNAME:
     md5: 7c95d705057f1c22ae33b35c01d2c35e
     time: 1415807632
   /sitemap.xml:
-    md5: bf7e056a34a49c0a10a1a21e269518e9
-    time: 1415808219
+    md5: ae3dec5eea901df61417ea7839e9b497
+    time: 1415808352
   /feed.xml:
-    md5: 4156b2a3eea227583b2ed1321529eaf0
-    time: 1415808219
+    md5: 46973a7f4c95128baf3d03fa7c2b731e
+    time: 1415808352
   /assets/squaresmall.jpg:
     md5: fa32d7d1beea56259e85303a40f4d988
     time: 1415807307
